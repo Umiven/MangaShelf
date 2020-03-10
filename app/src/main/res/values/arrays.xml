@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="mangaType">
+        <item>Any</item>
+        <item>Manga</item>
+        <item>Light novel</item>
+    </array>
+</resources>

@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">MangaShelf</string>
+    <string name="chkShowPassword">Show password</string>
+    <string name="btnLoginSignIn">Sign In</string>
+    <string name="btnLoginRegister">Register</string>
+    <string name="btnRegister">Register</string>
+    <string name="hintUser">E-mail </string>
+    <string name="hintPassword">Password</string>
+    <string name="hintAge">Age</string>
+    <string name="hintRepeatPassword">Repeat Password</string>
+    <string name="email">Email</string>
+    <string name="passwordStrengthPoor">Poor</string>
+    <string name="passwordStrengthLow">Low</string>
+    <string name="passwordStrengthMedium">Medium</string>
+    <string name="passwordStrengthStrong">Strong</string>
+    <string name="passwordStrengthVeryStrong">Very strong</string>
+    <string name="hintRegisterNick">Nick</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Profile</string>
+    <string name="title_dashboard">Lists</string>
+    <string name="title_notifications">Mangas</string>
+    <string name="toolbar_main_logout">"Logout"</string>
+    <string name="placeholderList">Empty list \n ლ(ಥ Д ಥ )ლ</string>
+    <string name="gender">Gender</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="nonBinary">Non-binary</string>
+    <string name="loadImage">Load Image</string>
+    <string name="personalData">Personal data</string>
+    <string name="statistics">Statistics</string>
+    <string name="author">Author</string>
+    <string name="status">Status</string>
+    <string name="type">Type</string>
+    <string name="genres">Genres</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="addManga">Add manga</string>
+    <string name="editManga">Edit manga</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

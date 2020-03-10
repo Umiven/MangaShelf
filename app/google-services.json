@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "767324467940",
+    "firebase_url": "https://mangalist-7b05a.firebaseio.com",
+    "project_id": "mangalist-7b05a",
+    "storage_bucket": "mangalist-7b05a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767324467940:android:04dc0f670691327f",
+        "android_client_info": {
+          "package_name": "com.pgv.david.mangalist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767324467940-md2mcdr581qqncolbjab37p9ggu8ushf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr4vCgX2XS272fpEhM0vAG7Iru8U7d7Yw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

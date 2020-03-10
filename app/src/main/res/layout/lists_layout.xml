@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/imgMangaLists"
+        android:layout_width="170dp"
+        android:layout_height="220dp"/>
+
+    <TextView
+        android:id="@+id/titleMangaLists"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_alignStart="@id/imgMangaLists"
+        android:layout_alignBottom="@id/imgMangaLists"
+        android:gravity="center|bottom"
+        android:padding="20dp"
+        android:background="@color/tansparentGrey"
+        android:textColor="@color/white"/>
+
+</RelativeLayout>
